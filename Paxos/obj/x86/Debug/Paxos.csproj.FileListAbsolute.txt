@@ -1,0 +1,15 @@
+C:\Users\Nillouise\Desktop\vs\t.7z\obj\x86\Debug\Paxos.csprojAssemblyReference.cache
+C:\Users\Nillouise\Desktop\vs\t.7z\obj\x86\Debug\App.g.cs
+C:\Users\Nillouise\Desktop\vs\t.7z\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Nillouise\Desktop\vs\t.7z\obj\x86\Debug\WindowsApplication_MarkupCompile.cache
+C:\Users\Nillouise\Desktop\vs\t.7z\obj\x86\Debug\WindowsApplication_MarkupCompile.lref
+C:\Users\Nillouise\Desktop\vs\t.7z\bin\Debug\WindowsApplication.pdb
+C:\Users\Nillouise\Desktop\vs\t.7z\obj\x86\Debug\MainWindow.baml
+C:\Users\Nillouise\Desktop\vs\t.7z\obj\x86\Debug\WindowsApplication.g.resources
+C:\Users\Nillouise\Desktop\vs\t.7z\obj\x86\Debug\Paxos.Properties.Resources.resources
+C:\Users\Nillouise\Desktop\vs\t.7z\obj\x86\Debug\Paxos.csproj.GenerateResource.cache
+C:\Users\Nillouise\Desktop\vs\t.7z\obj\x86\Debug\Paxos.csproj.CoreCompileInputs.cache
+C:\Users\Nillouise\Desktop\vs\t.7z\obj\x86\Debug\WindowsApplication.pdb
+C:\Users\Nillouise\Desktop\vs\t.7z\bin\Debug\WindowsApplication.exe.config
+C:\Users\Nillouise\Desktop\vs\t.7z\bin\Debug\WindowsApplication.exe
+C:\Users\Nillouise\Desktop\vs\t.7z\obj\x86\Debug\WindowsApplication.exe

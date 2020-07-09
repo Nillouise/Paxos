@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paxos", "Paxos\Paxos.csproj", "{41BA9FD8-6254-4BE7-ADF3-CF8571089F09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41BA9FD8-6254-4BE7-ADF3-CF8571089F09}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{41BA9FD8-6254-4BE7-ADF3-CF8571089F09}.Release|Any CPU.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDADCDC2-21A7-45B5-9CC7-5D165CD88E8D}
+	EndGlobalSection
+EndGlobal

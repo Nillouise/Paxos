@@ -271,7 +271,7 @@ namespace paxos
             {
                 return false;
             }
-            return rnd.Next(0, 1000) >= 990;
+            return rnd.Next(0, 1000) >= 999;
         }
 
         public static long randCorruptTime()
@@ -289,7 +289,7 @@ namespace paxos
             {
                 return false;
             }
-            return rnd.Next(0, 100) > 80;
+            return rnd.Next(0, 100) > 90;
         }
 
         public static int randRgb()
@@ -1344,7 +1344,7 @@ namespace paxos
                 //timer start
                 System.Windows.Threading.DispatcherTimer dispatcherTimer = new System.Windows.Threading.DispatcherTimer();
                 dispatcherTimer.Tick += paxosTimer;
-                dispatcherTimer.Interval = new TimeSpan(0, 0, 0, 0, 500);
+                dispatcherTimer.Interval = new TimeSpan(0, 0, 0, 0, 100);
                 dispatcherTimer.Start();
                 Connector.startConsumeThread();
             }
